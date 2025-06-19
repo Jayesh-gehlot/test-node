@@ -9,7 +9,7 @@ console.log("Server running ");
 
 // Sample route
 app.get('/', (req, res) => {
-  res.send('Hello, Express!');
+  res.send('Hello, there too many Clothes !');
 });
 
 // Start the server
